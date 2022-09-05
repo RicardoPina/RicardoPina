@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**RicardoPina/RicardoPina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a full-time student at Raritan Valley Community College majoring in CS.
 
-Here are some ideas to get you started:
+##### BIO
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏢 Currently working at [**Smash Digital**](smashdigital.com)
+- ⚙️ I use daily: `.blend`, `.psd`, `WP`, `Elementor`
+- 🌍 I'm mostly active within the **Blender Community**
+- 💅 Someo of my designs: [Chair](https://www.northmeetssouth.audio), [Low-Poly Car](https://thenping.me), etc…
+- 🌱 Learning all about **Web Dev**
+- 💬 Ping me about **design**, **branding**, **3D Graphics**, **development**
+- 📫 Reach me: [instagram.com/ricardopina_](https://instagram.com/ricardopina_)
+- ⚡️ Fun fact: I'm a huge fan of F.C. Barelona
