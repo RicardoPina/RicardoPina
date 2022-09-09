@@ -18,8 +18,8 @@
 
 | Description       | Image                                                               |
 | ----------------- | ------------------------------------------------------------------ |
-| Donut         | ![Finished_Donut](https://user-images.githubusercontent.com/54639989/188358061-fe6ec1f8-73ef-4a55-93e6-fdb3b2995dd6.png) Every Blender begginer's first render: Blenderguru's Donut  |
-| Plant | ![untitled](https://user-images.githubusercontent.com/54639989/188358064-1751d27e-8e89-4870-b608-e0b4af88cbfd.jpg)Plants>>>>>>|
-| Realistic Chair | ![Table](https://user-images.githubusercontent.com/54639989/188358063-91c93b40-b38b-4c46-85c9-7a4a78b00661.jpg)Because why not |
+| Donut         | <img src="https://user-images.githubusercontent.com/54639989/188358061-fe6ec1f8-73ef-4a55-93e6-fdb3b2995dd6.png" width="300" height="300"><br>Every Blender begginer's first render: Blenderguru's Donut  |
+| Plant | <img src="https://user-images.githubusercontent.com/54639989/188358064-1751d27e-8e89-4870-b608-e0b4af88cbfd.jpg"  width="300" height="300"> <br> Plants>>>>>>|
+| Realistic Chair |<img src="https://user-images.githubusercontent.com/54639989/188358063-91c93b40-b38b-4c46-85c9-7a4a78b00661.jpg" width="300" height="300"><br>Because why not |
 
 
